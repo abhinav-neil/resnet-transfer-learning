@@ -1,5 +1,4 @@
-# Transfer Learning for Image Classification
-
+# Transfer Learning with ResNet
 ## 1. Introduction
 We perform transfer learning by fine-tuning a Resnet-18 model trained on the [ImageNet1k](https://huggingface.co/datasets/imagenet-1k) dataset, to classify images on the CIFAR-100 dataset. 
 
